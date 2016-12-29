@@ -2,8 +2,8 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Mosquiteiras</title>
-    <meta name="description" content="Site institucional para telas mosquiteiras." />
+    <title>Telas Mosquiteiras Uberaba</title>
+    <meta name="description" content="Site institucional para divulgar nosso trabalho com telas mosquiteiras." />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Codeply">
     <link rel="stylesheet" href="./css/bootstrap.min.css" />
