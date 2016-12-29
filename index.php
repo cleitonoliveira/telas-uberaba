@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./css/animate.min.css" />
     <link rel="stylesheet" href="./css/ionicons.min.css" />
     <link rel="stylesheet" href="./css/styles.css" />
-    <link rel="icon" href="./img/mosquito.png">
+    <link rel="icon" href="./img/mosquito.gif">
   </head>
   <body>
     <nav id="topNav" class="navbar navbar-default navbar-fixed-top">
@@ -175,7 +175,7 @@
                     <p>Deixe seu contato, nós ligaremos para você.</p>
                 </div>
                 <div class="col-lg-10 col-lg-offset-1 text-center">
-                    <form class="contact-form row" method="post" action="www.frango.com">
+                    <form class="contact-form row" method="post" action="">
                         <div class="col-md-4">
                             <label></label>
                             <input type="text" class="form-control" placeholder="Nome">
